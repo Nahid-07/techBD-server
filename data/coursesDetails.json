@@ -1,0 +1,100 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "title": "Mastering on Php",
+        "author": {
+          "name": "Shams John",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://www.netsolutions.com/insights/wp-content/uploads/2021/01/What-is-PHP.jpg",
+        "details": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal.Readed some books about PHP but it was such boring that i never finished a book and withhold me from learning, this course helped me out straight.. After seeing a free tut on youtube i subscribed the course and jeez, i don't even need goals to get or stay motivated cause i have the instructor: Edwin Diaz, his way of teaching is friggin awesome (and fun) and easy listening! To be honest its keeping me away from bed xD.. I really really love the course. If i need to describe the course from my personal view, one word: Epic! Really looking forward for the stuff that will be added in the future! Great job and thumbs up! Greetings from a DutchyThis course is just awesome. You will learn the basics and then you will jump to making your own CMS. Every little piece of code is described very well, so you exactly know, what you are doing. After finishing this course I was ready to make my own social networking site and that's amazing isn't it? Another great part of this course is its instructor, who helps you with every issue you have in short time. I've have already done many internet courses, but this is definetly the best one."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "title": "Mastering on JAVA",
+        "author": {
+          "name": "Samuels Hood",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
+        "details": "Three months ago I lost my job, came to a turning point in my life, and finally made the drastic decision to completely change course.   I decided to switch career paths and go into coding. My husband found and gave me your Complete Java Masterclass at Udemy as a gift, and I wholeheartedly dove into it as a lifeline. Following your course has been absolutely enjoyable (still working on it, not yet finished), and has been a great way of keeping on course, dedicated and motivated.  Yesterday, three months after starting the course, and honestly to my surprise, I received (and accepted!) a job offer as a full-time developer. I wanted to just drop you a line to say thank you for doing this work, for being such a dedicated teacher, and for putting all this knowledge available out there in such an approachable way. It has, literally, been life-changing"
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "title": "Mastering on C++",
+        "author": {
+          "name": "Nahid",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+        "details": "Welcome to the C++ 20 Masterclass! A course designed to teach you cutting edge modern C++ from the absolute beginning all the way to very advanced topics, the topics you need in areas where C++ is used massively in modern times. Want to be a confident game developer? High performance applications in the financial sector, how about powerful software modules on top of which server systems, network infrastructure, database systems, even operating systems themselves run on top of? Well C++ is the dominant language used in these areas and many more! C++ is the programming language even other programming languages and technologies like NodeJS, PHP, Java, JavaScript and many more are written in.By learning modern C++, you will be setting yourself up for success in writing software that runs devices ranging from bare metal embedded devices,  to mainstream electronic tech products like fridges, toasters, to networking infrastructure like routers and switches, all the way to power plants, manufacturing facilities and medical equipment. C++ is simply everywhere!"
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "title": "Mastering on Python",
+        "author": {
+          "name": "NAhid Asif",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
+        "details": "Become a Python Programmer and learn one of employer's most requested skills of 2022!This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you!We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "title": "Mastering on C#",
+        "author": {
+          "name": "NAhid Hassan Asif",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/03/2021_C9_top-level_programs_target-typed_Featured_article_image_A-01.png?itok=hN4XnLJr",
+        "details": "Have you ever had an idea for a program, an app, or a game?Maybe you want to work as a developer? Then you are in the right place. In this course, you are going to discover how to become a c# developer - one of the best programming languages on earth!C# is one of the few programming languages which allows you to create amazing cross-platform Mobile Apps, Games, and PC Programs.Bringing an Idea to life is one of the best feelings one can have, but the path to get there is often full of challenges. So I have created a course that makes this path as easy as possible all with the help of c# so that you become a skilled c# developer!"
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "title": "Mastering on Swift",
+        "author": {
+          "name": "Hassan Asif",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg",
+        "details": "Shortly after iOS 16 is released, I will start uploading new content about what is new in SwiftUI 4 framework. But not only that but the entire course will also be updated to iOS 16 this fall. Old projects will get both refreshed UI design and enhanced features as well.If you want to follow along with me, then you will need Xcode 14 (recently in beta) downloaded from Apple's developer website.I would also highlight that Apple did not deprecate previous SwiftUI versions. That's said, the latest iteration of SwiftUI 4 is nothing more than some new features and exciting additions on top of the base of SwiftUI 1, SwiftUI 2, and SwiftUI 3 releases.Creating the Bestseller SwiftUI Course with high-quality production value takes a lot of time.This SwiftUI course is already more than 30.5+ hours long, and it will be much longer by the end of this year. There is no other instructor in this category I am aware of who provides more free previews than I do, so you can educate yourself about how things are done in this course."
+
+        
+      }
+]

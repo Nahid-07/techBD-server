@@ -27,3 +27,4 @@ app.get('/course-category/courses/:id',(req,res)=>{
 app.listen(Port,()=>{
     console.log('Server is running on port', 5000)
 });
+module.exports = app;

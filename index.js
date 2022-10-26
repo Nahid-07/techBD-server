@@ -12,12 +12,11 @@ const courses = require('./data/coursesDetails.json')
 app.get('/course-category',(req,res)=>{
     res.send(category)
 });
-
-app.get('/course-category/courses', (req,res)=>{
+app.get('/courses',(req,res)=>{
     res.send(courses)
-});
+})
 
-app.get('/course-category/courses/:id',(req,res)=>{
+app.get('/courses/:id',(req,res)=>{
     const id = req.params.id;
     const course = courses.find( c => c.category_id === id);
     res.send(course)

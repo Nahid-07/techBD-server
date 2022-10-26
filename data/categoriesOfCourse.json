@@ -1,26 +1,50 @@
 [
     {
       "id": "01",
-      "name": "PHP"
+      "name": "PHP",
+      "thumbnail_url": "https://www.netsolutions.com/insights/wp-content/uploads/2021/01/What-is-PHP.jpg",
+      "title": "Mastering on Php",
+      "author_name": "Shams John",
+      "published_date": "2022-08-24 17:27:34"
+
     },
     {
       "id": "02",
-      "name": "Java"
+      "name": "Java",
+      "thumbnail_url": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
+      "title": "Mastering on JAVA",
+      "author_name": "Samuels Hood",
+      "published_date": "2022-08-24 17:27:34"
     },
     {
       "id": "03",
-      "name": "C++"
+      "name": "C++",
+      "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+      "author_name": "Nahid",
+      "published_date": "2022-08-24 17:27:34"
     },
     {
       "id": "04",
-      "name": "Python"
+      "name": "Python",
+      "thumbnail_url": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
+      "title": "Mastering on Python",
+      "author_name": "NAhid Asif",
+      "published_date": "2022-08-24 17:27:34"
     },
     {
       "id": "05",
-      "name": "C#"
+      "name": "C#",
+      "thumbnail_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/03/2021_C9_top-level_programs_target-typed_Featured_article_image_A-01.png?itok=hN4XnLJr",
+      "title": "Mastering on C#",
+      "author_name": "NAhid Hassan Asif",
+      "published_date": "2022-08-24 17:27:34"
     },
     {
       "id": "06",
-      "name": "Swift"
+      "name": "Swift",
+      "thumbnail_url": "https://miro.medium.com/max/750/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg",
+      "title": "Mastering on Swift",
+      "author_name": "Hassan Asif",
+      "published_date": "2022-08-24 17:27:34"
     }
   ]
